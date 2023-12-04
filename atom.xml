@@ -6,7 +6,7 @@
   <link href="http://znsznszns.github.io/atom.xml" rel="self"/>
   
   <link href="http://znsznszns.github.io/"/>
-  <updated>2023-12-04T09:06:31.062Z</updated>
+  <updated>2023-12-04T13:08:48.776Z</updated>
   <id>http://znsznszns.github.io/</id>
   
   <author>
@@ -17,17 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test2023/11/30</title>
+    <link href="http://znsznszns.github.io/contest/test2023-11-30/"/>
+    <id>http://znsznszns.github.io/contest/test2023-11-30/</id>
+    <published>2023-12-04T09:16:03.000Z</published>
+    <updated>2023-12-04T13:08:48.776Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h1&gt;&lt;p&gt;一年前考过的，没改题，还是不会，喜提 $rk$ $n$&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="contest" scheme="http://znsznszns.github.io/categories/contest/"/>
+    
+    
+    <category term="test" scheme="http://znsznszns.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://znsznszns.github.io/2023/12/04/hello-world/"/>
-    <id>http://znsznszns.github.io/2023/12/04/hello-world/</id>
+    <link href="http://znsznszns.github.io/uncategorized/hello-world/"/>
+    <id>http://znsznszns.github.io/uncategorized/hello-world/</id>
     <published>2023-12-04T09:04:22.000Z</published>
-    <updated>2023-12-04T09:06:31.062Z</updated>
+    <updated>2023-12-04T11:59:44.268Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
     
     
     
