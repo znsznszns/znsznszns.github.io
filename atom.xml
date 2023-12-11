@@ -6,7 +6,7 @@
   <link href="http://znsznszns.github.io/atom.xml" rel="self"/>
   
   <link href="http://znsznszns.github.io/"/>
-  <updated>2023-12-07T14:30:14.929Z</updated>
+  <updated>2023-12-11T12:11:52.121Z</updated>
   <id>http://znsznszns.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test2023/12/11</title>
+    <link href="http://znsznszns.github.io/contest/test2023-12-11/"/>
+    <id>http://znsznszns.github.io/contest/test2023-12-11/</id>
+    <published>2023-12-11T12:10:58.000Z</published>
+    <updated>2023-12-11T12:11:52.121Z</updated>
+    
+    
+    
+    
+    <category term="contest" scheme="http://znsznszns.github.io/categories/contest/"/>
+    
+    
+    <category term="test" scheme="http://znsznszns.github.io/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>test2023/11/30</title>
